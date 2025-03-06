@@ -46,11 +46,11 @@ This project **leverages SQL and dashboard visualizations** to uncover **key fin
 ## 🛠️ Tech Stack Used
 
 ### **📊 Data Visualization & Reporting**
-- **Power BI / Tableau** – **Interactive dashboard** showcasing **transaction trends, fraud detection, and financial insights**.
+- **Power BI** – **Interactive dashboard** showcasing **transaction trends, fraud detection, and financial insights**.
 - **Excel & CSV Processing** – **Data transformation and preparation** before SQL ingestion.
 
 ### **💾 Database & Query Processing**
-- **PostgreSQL / MySQL / SQL Server** – **Relational database for structured financial data storage**.
+- **MySQL ** – **Relational database for structured financial data storage**.
 - **SQL Queries** – Used for **data aggregation, fraud detection, anomaly detection, and performance analysis**.
 
 ### **📜 SQL Features Used**
